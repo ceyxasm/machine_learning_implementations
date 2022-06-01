@@ -12,3 +12,4 @@ Contents of this folder were implemented during independent learning and explora
 * [Unsupervized_learning](https://github.com/ceyxasm/machine_learning_implementations/blob/main/notebooks/Unsupervized_learning.ipynb) : kMeans, Elbow method, Silhouette Score; Image Segmantation and Preprocessing
 * [perceptron_classifier](https://github.com/ceyxasm/machine_learning_implementations/blob/main/notebooks/perceptron_classifier.ipynb) : Activation fn; keras tf; Sequential API; model history
 * [perceptron_regressor](https://github.com/ceyxasm/machine_learning_implementations/blob/main/notebooks/perceptron_regressor.ipynb) : Functional API; deep and Shallow Networks; Subclassing API; Callbacks, model checkpoints and early stopping;
+* [CNN](https://github.com/ceyxasm/machine_learning_implementations/blob/main/notebooks/CNN.ipynb) : CNN, filters and feature maps; paddings; ResNEt34; ResNet50; Xception
